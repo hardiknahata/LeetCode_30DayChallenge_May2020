@@ -5,5 +5,5 @@
 | :--- | :---: | :---: | :---: | :---: | 
 | 1 | First Bad Version | Binary Search | O(log(n)) | O(1) |
 | 2 | Jewels and Stones | HashSet  | O(m+n) | O(m) |
-| 3 | Ransom Note | MultiSet | O(n) | O(1) |
+| 3 | Ransom Note | MultiSet | O(m+n) | O(n) |
 | 4 | Number Complement | Bit Manipulation | O(n) | O(1) |
