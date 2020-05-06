@@ -7,4 +7,5 @@
 | 2 | Jewels and Stones | HashSet  | O(m+n) | O(m) |
 | 3 | Ransom Note | MultiSet | O(m+n) | O(n) |
 | 4 | Number Complement | Bit Manipulation | O(1) | O(1) |
-| 5 | First Unique Character in a String | Vectors | O(n) | O(m) |
+| 5 | First Unique Character in a String | NA | O(n) | O(m) |
+| 6 | Majority Element | Sort | O(n) | O(1) |
