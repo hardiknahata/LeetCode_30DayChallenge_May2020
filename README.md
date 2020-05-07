@@ -8,4 +8,6 @@
 | 3 | Ransom Note | MultiSet | O(m+n) | O(n) |
 | 4 | Number Complement | Bit Manipulation | O(1) | O(1) |
 | 5 | First Unique Character in a String | NA | O(n) | O(m) |
-| 6 | Majority Element | Sort | O(n) | O(1) |
+| 6 | Majority Element | Sort | O(n(logn)) | O(1) |
+| 7 | Cousins in Binary Tree | Recursion | O(n) | O(1) |
+
