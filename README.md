@@ -10,4 +10,5 @@
 | 5 | First Unique Character in a String | NA | O(n) | O(m) |
 | 6 | Majority Element | Sort | O(n(logn)) | O(1) |
 | 7 | Cousins in Binary Tree | Recursion | O(n) | O(1) |
+| 8 | Check If It Is a Straight Line | Slope Formula | O(n) | O(1) |
 
