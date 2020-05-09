@@ -11,4 +11,5 @@
 | 6 | Majority Element | Sort | O(n(logn)) | O(1) |
 | 7 | Cousins in Binary Tree | Recursion | O(n) | O(1) |
 | 8 | Check If It Is a Straight Line | Slope Formula | O(n) | O(1) |
+| 9 | Valid Perfect Square | Binary Search | O(log(n)) | O(1) |
 
