@@ -13,4 +13,5 @@
 | 8 | Check If It Is a Straight Line | Slope Formula | O(n) | O(1) |
 | 9 | Valid Perfect Square | Binary Search | O(logn) | O(1) |
 | 10 | Find the Town Judge | HashMap | O(m+n) | O(n) |
+| 11 | Flood Fill | DFS | O(n) | O(n) |
 
