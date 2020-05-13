@@ -15,4 +15,5 @@
 | 10 | Find the Town Judge | HashMap | O(m+n) | O(n) |
 | 11 | Flood Fill | DFS | O(n) | O(n) |
 | 12 | Single Element in a Sorted Array | XOR | O(n) | O(1) |
+| 13 | Remove K Digits | NA | O(n) | O(n) |
 
