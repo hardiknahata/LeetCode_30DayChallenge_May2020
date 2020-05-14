@@ -16,4 +16,5 @@
 | 11 | Flood Fill | DFS | O(n) | O(n) |
 | 12 | Single Element in a Sorted Array | XOR | O(n) | O(1) |
 | 13 | Remove K Digits | NA | O(n) | O(n) |
+| 14 | Implement Trie (Prefix Tree) | Trie | O(m\*n) | O(n) |
 
