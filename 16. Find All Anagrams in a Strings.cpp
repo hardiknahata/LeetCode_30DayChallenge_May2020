@@ -78,3 +78,5 @@ public:
     return res;
     }
 };
+
+// Time complexity to compare two count arrays is O(1) as the number of elements in them are fixed
