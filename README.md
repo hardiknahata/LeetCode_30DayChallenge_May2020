@@ -20,6 +20,9 @@
 | 15 | Maximum Sum Circular Subarray | Kadene's Algo | O(n) | O(1) |
 | 16 | Odd Even Linked List | Linked List | O(n) | O(1) |
 | 17 | Find All Anagrams in a String | Modified Rabin Karp | O(n) | O(1) |
+| 18 | Permutation in String | Modified Rabin Karp | O(n) | O(1) |
+
+
 
 
 
