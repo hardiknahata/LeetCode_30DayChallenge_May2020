@@ -21,6 +21,8 @@
 | 16 | Odd Even Linked List | Linked List | O(n) | O(1) |
 | 17 | Find All Anagrams in a String | Modified Rabin Karp | O(n) | O(1) |
 | 18 | Permutation in String | Modified Rabin Karp | O(n) | O(1) |
+| 19 | Online Stock Span | Stack | O(n) | O(n) |
+
 
 
 
