@@ -45,11 +45,10 @@ public:
     
     static bool cmp(pair<char,int> &p1, pair<char, int> &p2) 
     { 
-        // If frequencies are same, compare 
-        // values 
+        // If frequencies are same, compare characters
         if (p1.second == p2.second) 
             return p1.first < p2.first; 
-        return p1.second > p2.second; 
+        return p1.second > p2.second; //else return higher frequency character
     } 
     
     string frequencySort(string s) 
