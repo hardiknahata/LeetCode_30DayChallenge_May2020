@@ -23,6 +23,8 @@
 | 18 | Permutation in String | Modified Rabin Karp | O(n) | O(1) |
 | 19 | Online Stock Span | Stack | O(n) | O(n) |
 | 20 | Kth Smallest Element in a BST | Inorder Traversal | O(n) | O(n) |
+| 22 | Sort Characters By Frequency | HashMap & VectorPair | O(logn) | O(n) |
+
 
 
 
