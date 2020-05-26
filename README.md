@@ -27,4 +27,5 @@
 | 23 | Interval List Intersections | NA | O(m+n) | O(m+n) |
 | 24 | Construct Binary Search Tree from Preorder Traversal | BST | O(n^2) | O(n) |
 | 25 | Uncrossed Lines | Dynamic Programming | O(n^2) | O(n) |
+| 26 | Contiguous Array | Dynamic Programming | O(n) | O(n) |
 
