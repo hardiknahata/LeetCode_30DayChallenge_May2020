@@ -30,3 +30,4 @@
 | 26 | Contiguous Array | Dynamic Programming | O(n) | O(n) |
 | 27 | Possible Bipartition | DFS | O(n) | O(n) |
 | 28 | Counting Bits | Bit Manipulation | O(logn) | O(1) |
+| 28 | Course Schedule | Graph Coloring | O(v+e) | O(e) |
