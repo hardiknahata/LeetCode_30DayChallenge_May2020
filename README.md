@@ -30,6 +30,6 @@
 | 26 | Contiguous Array | Dynamic Programming | O(n) | O(n) |
 | 27 | Possible Bipartition | DFS | O(n) | O(n) |
 | 28 | Counting Bits | Bit Manipulation | O(logn) | O(1) |
-| 28 | Course Schedule | Graph Coloring | O(v+e) | O(e) |
-| 29 | K Closest Points to Origin | HashMap | O(n) | On) |
-| 30 | Edit Distance | Dynamic Programming | O(n) | O(n) |
+| 29 | Course Schedule | Graph Coloring | O(v+e) | O(e) |
+| 30 | K Closest Points to Origin | HashMap | O(n) | On) |
+| 31 | Edit Distance | Dynamic Programming | O(n) | O(n) |
