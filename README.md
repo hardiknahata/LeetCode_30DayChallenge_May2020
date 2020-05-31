@@ -26,10 +26,10 @@
 | 22 | Sort Characters By Frequency | HashMap & VectorPair | O(logn) | O(n) |
 | 23 | Interval List Intersections | NA | O(m+n) | O(m+n) |
 | 24 | Construct Binary Search Tree from Preorder Traversal | BST | O(n^2) | O(n) |
-| 25 | Uncrossed Lines | Dynamic Programming | O(n^2) | O(n) |
+| 25 | Uncrossed Lines | Dynamic Programming | O(n) | O(n) |
 | 26 | Contiguous Array | Dynamic Programming | O(n) | O(n) |
 | 27 | Possible Bipartition | DFS | O(n) | O(n) |
 | 28 | Counting Bits | Bit Manipulation | O(logn) | O(1) |
 | 28 | Course Schedule | Graph Coloring | O(v+e) | O(e) |
 | 29 | K Closest Points to Origin | HashMap | O(n) | On) |
-
+| 30 | Edit Distance | Dynamic Programming | O(n) | O(n) |
