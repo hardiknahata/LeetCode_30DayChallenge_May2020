@@ -31,3 +31,5 @@
 | 27 | Possible Bipartition | DFS | O(n) | O(n) |
 | 28 | Counting Bits | Bit Manipulation | O(logn) | O(1) |
 | 28 | Course Schedule | Graph Coloring | O(v+e) | O(e) |
+| 29 | K Closest Points to Origin | HashMap | O(n) | On) |
+
